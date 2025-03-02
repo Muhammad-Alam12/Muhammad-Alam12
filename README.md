@@ -8,7 +8,7 @@ I am enthusiastic about making a significant impact in mobile application develo
 
 - 🌱 I’m currently learning more about **Flutter**, **Firebase**, **Dart**, and **Backend Development**.
 - 💬 Ask me about **Flutter**, **Android Development**, **Firebase**, and more.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-alam/) | [Email](mailto:youremail@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-alam-896ba2215/) | [Email](mailto:youremail@example.com)
 
 ## 🚀 Skills
 
