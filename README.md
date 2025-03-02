@@ -23,12 +23,6 @@ I am always eager to learn and grow in the world of mobile development, contribu
 
 ---
 
-## 📈 GitHub Stats
-
-![Muhammad Alam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 ## 🔧 Featured Projects
 
 ### 1. [Excise and Taxation Baltistan](https://github.com/yourusername/excise-taxation-baltistan)
@@ -76,6 +70,11 @@ I am always eager to learn and grow in the world of mobile development, contribu
 ## 📚 Let's Collaborate!
 
 Feel free to check out my repositories and see what I've been working on! I'm always open to **collaborating** on exciting and innovative projects. Let's build something great together!
+
+---
+## 📈 GitHub Stats
+
+![Muhammad Alam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
