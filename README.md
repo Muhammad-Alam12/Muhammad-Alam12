@@ -14,14 +14,15 @@ I am always eager to learn and grow in the world of mobile development, contribu
 
 ## 🚀 My Skills
 
-- **Flutter/Dart**: Crafting beautiful, cross-platform apps 🌍
-- **Firebase**: Real-time Database, Authentication, Cloud Functions ⚡
-- **Android Development**: Java/Kotlin, MVVM, Android SDK 📱
-- **Backend**: REST APIs, Firebase Cloud Functions 🔧
-- **Databases**: SQL, MySQL, and Firebase Firestore 📊
-- **Version Control**: Git & GitHub 🔄
+- ![Flutter](https://img.shields.io/badge/Flutter-%23025698?style=for-the-badge&logo=flutter&logoColor=white) **Flutter/Dart**: Crafting beautiful, cross-platform apps 🌍
+- ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white) **Firebase**: Real-time Database, Authentication, Cloud Functions ⚡
+- ![Android](https://img.shields.io/badge/Android-%2300C853?style=for-the-badge&logo=android&logoColor=white) **Android Development**: Java/Kotlin, MVVM, Android SDK 📱
+- ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB?style=for-the-badge&logo=node.js&logoColor=white) **Backend**: REST APIs, Firebase Cloud Functions 🔧
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white) **Databases**: SQL, MySQL, and Firebase Firestore 📊
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white) **Version Control**: Git & GitHub 🔄
 
 ---
+
 
 ## 🔧 Featured Projects
 
