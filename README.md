@@ -61,7 +61,7 @@ Fare logic can be customized by region, distance slabs, or government fare chart
 
 **Bachelor of Science - Computer Science**  
 **University of Baltistan, Skardu** | Aug 2020 - Oct 2024  
-📍 **CGPA**: 3.48  
+📍 **CGPA**: 3.78  
 🔧 **Relevant Activities**: Worked as a web and android developer for **Excise and Taxation**, Baltistan Skardu.
 
 ---
@@ -86,6 +86,16 @@ Followed clean architecture (BLoC pattern) to ensure scalable and maintainable c
 
 Assisted in debugging and optimizing existing applications to improve user experience and app performance.
 ### **Flutter Developer** | [Essenceware Technologies](https://www.essencewaretech.com/)
+
+Developed high-performance **Flutter apps** for Android and iOS, accelerating delivery by **40%** through single-codebase architecture.
+
+Implemented scalable architectures using **BLoC, Provider, and Riverpod, with Firebase and RESTful API** integrations.
+
+Translated **Figma/Adobe XD designs** into responsive, pixel-perfect UIs, optimizing load times by 30%.
+
+Wrote unit/widget tests and set up CI/CD pipelines (GitHub Actions, Fastlane), reducing bugs by 25%.
+
+Collaborated in Agile/Scrum teams, participating in planning, stand-ups, and cross-functional coordination.
 
 
 ---
