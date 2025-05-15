@@ -75,9 +75,18 @@ Fare logic can be customized by region, distance slabs, or government fare chart
 ## 💼 Experience
 
 ### **Flutter Intern** | [Essenceware Technologies](https://www.essencewaretech.com/)
-**Dec 2024 - Present** | Rawalpindi, Punjab, Pakistan  
-- Developing and maintaining cutting-edge **Flutter** applications for various clients.  
-- Collaborating with teams to implement complex features and UI/UX design.
+**Dec 2024 -Feburary 2025** | Rawalpindi, Punjab, Pakistan  
+-Developed and maintained **cross-platform Flutter applications** using **Dart**, ensuring high performance and responsiveness.
+
+Collaborated with **UI/UX designers and backend developers** to implement seamless and visually appealing interfaces.
+
+Integrated Firebase for authentication, real-time databases, and cloud storage to enhance app functionality.
+
+Followed clean architecture (BLoC pattern) to ensure scalable and maintainable code.
+
+Assisted in debugging and optimizing existing applications to improve user experience and app performance.
+### **Flutter Developer** | [Essenceware Technologies](https://www.essencewaretech.com/)
+
 
 ---
 
