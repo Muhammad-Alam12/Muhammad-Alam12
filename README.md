@@ -1,4 +1,4 @@
-# Muhammad Alam's GitHub Profile 👨‍💻
+# Muhammad Alam's  
 
 ## 🌟 About Me
 
@@ -8,7 +8,7 @@ I am always eager to learn and grow in the world of mobile development, contribu
 
 - 🌱 **Currently learning**: Advanced **Flutter**, **Firebase**, **Dart**, and **Backend Development**.
 - 💬 **Ask me about**: Mobile Development, **Flutter**, **Android**, **Firebase**, and more.
-- 📫 **Reach out to me**: [LinkedIn](https://www.linkedin.com/in/muhammad-alam-896ba2215/) | [Email](mailto:youremail@example.com)
+- 📫 **Reach out to me**: [LinkedIn](https://www.linkedin.com/in/muhammad-alam-896ba2215/) | [Email](muhammadalamrush044@gmail.com)
 
 ---
 
