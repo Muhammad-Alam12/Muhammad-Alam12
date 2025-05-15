@@ -16,9 +16,9 @@ I am always eager to learn and grow in the world of mobile development, contribu
 
 - ![Flutter](https://img.shields.io/badge/Flutter-%23025698?style=for-the-badge&logo=flutter&logoColor=white) **Flutter/Dart**: Crafting beautiful, cross-platform apps 🌍
 - ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white) **Firebase**: Real-time Database, Authentication, Cloud Functions ⚡
-- ![Android](https://img.shields.io/badge/Android-%2300C853?style=for-the-badge&logo=android&logoColor=white) **Android Development**: Java/Kotlin, MVVM, Android SDK 📱
+
 - ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB?style=for-the-badge&logo=node.js&logoColor=white) **Backend**: REST APIs, Firebase Cloud Functions 🔧
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white) **Databases**: SQL, MySQL, and Firebase Firestore 📊
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white) **Databases**: SQL, MySQL, and Firebase Firestore,Sqlite, 📊
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white) **Version Control**: Git & GitHub 🔄
 
 ---
@@ -27,7 +27,26 @@ I am always eager to learn and grow in the world of mobile development, contribu
 ## 🔧 Featured Projects
 
 ### 1. [Excise and Taxation Baltistan](https://github.com/yourusername/excise-taxation-baltistan)
-   - 📱 **Description**: Developed a mobile app for the **Excise and Taxation** department, streamlining office management tasks.
+   - 📱 **Description**:I designed and developed a smart Excise and Taxation mobile app using Flutter. The app provides users with a wide range of services related to vehicle registration, driver licenses, compliance tracking, and transportation fares.
+
+🚗 Vehicle & Company Lookup:
+Users can search vehicle details using the registration number, including ownership status, model, tax dues, and registration history.
+
+Includes full company vehicle tracking with access to detailed vehicle records.
+
+🪪 Driver License & Compliance System:
+Allows license verification using license number or CNIC.
+
+Tracks vehicle compliance status including tax clearance, insurance, and fitness reports.
+
+Integrated a complaint management system to report and monitor issues related to vehicles or drivers.
+
+💸 Fare Estimation Between Locations:
+Implemented a feature to calculate fare between two places based on distance and vehicle type (car, bike, rickshaw, etc.).
+
+Uses location services or manual entry to get source and destination.
+
+Fare logic can be customized by region, distance slabs, or government fare charts..
    - 🔧 **Technologies**: **Flutter**, **Firebase**, **SQLite**.
 
 ---
